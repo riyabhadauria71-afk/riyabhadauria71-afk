@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Riya Bhadauria
-**A passionate Cloud Engineer || DevOps Engineer ||  from India**
+**A passionate Software Developer || AI Engineer ||  from India**
 
 Email Me 👉 ✉️ **riyabhadauria71@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
