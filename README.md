@@ -1,7 +1,7 @@
-# 💫 Hi 👋, I'm Riya Bhadauria
+#  Hi, I'm Riya Bhadauria
 **A passionate Software Developer || AI Engineer ||  from India**
 
-Email Me 👉 ✉️ **riyabhadauria71@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me :✉️ **riyabhadauria71@gmail.com** For Collaboration/Project or Anything Else.
 
 - 🌱 **I’m currently learning:** C Programming,Java,React.JS.
 - 💬 **Ask me about:** Collaboration, Tech Support
