@@ -3,7 +3,7 @@
 
 Email Me :✉️ **riyabhadauria71@gmail.com** For Collaboration/Project or Anything Else.
 
-- 🌱 **I’m currently learning:** C Programming,Java,React.JS.
+- 🌱 **I’m currently learning:** C Programming,Java,React.JS,Python.
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** riyabhadauria71@gmail.com
 - 😄 **Pronouns:** she/her
